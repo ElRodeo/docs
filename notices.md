@@ -1,3 +1,40 @@
+
+**Warning notice with or without suspension**
+```
+**Warning Notice**
+
+Greetings, [Insert name]
+
+This notice is to inform you about the following:
+
+- Reason 1 
+
+- Reason 2 e.g No grammar, no uniform at shifts maturity etc. 
+
+*Remove me* If first warning *Remove me*
+
+
+If your actions are not corrected, you will receive punishment. 
+
+
+*Remove me* If second warning they will be suspended so, add on - *Remove me*
+
+This is your second warning, and you have been suspended for 3 days to reflect and think over your recent actions. 
+
+*Best regards, 
+name*
+**Title
+El Rodeo - Mexican Grill**
+```
+
+
+
+
+
+
+
+**Moderation Notices**
+
 ```
 
 **Moderation Notice**
