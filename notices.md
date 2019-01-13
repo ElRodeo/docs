@@ -36,7 +36,6 @@ El Rodeo - Mexican Grill**
 **Moderation Notices**
 
 ```
-
 **Moderation Notice**
 
 Greetings, 
@@ -48,4 +47,5 @@ We see you are in our server El Rodeo - Mexican Grill, and welcome you to our co
 *Kind regards, 
 Jdc20181*
 **CEO & Chairman 
-El Rodeo - Mexican Grill**``` 
+El Rodeo - Mexican Grill**
+``` 
